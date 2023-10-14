@@ -10,7 +10,7 @@
     {
       "id": 102,
       "name": "Cricket",
-      "img": "https://ibb.co/DpP2Ynx",
+      "img": "https://plus.unsplash.com/premium_photo-1661890079209-72b76e49768f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=805&q=80",
       "description": "Cricket is a sport which is played between two teams of eleven players each (Cricket). One team, which is batting, tries to score runs, while the other team.",
       "age": 18,
       "time": 40
@@ -26,8 +26,8 @@
     {
       "id": 104,
       "name": "Chess Game",
-      "img": "https://ibb.co/QN10BTX",
-      "description": "Chess is a game played between two opponents on opposite sides of a board containing 64 squares of alternating colors. Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate the other king.",
+      "img": "https://plus.unsplash.com/premium_photo-1663090391633-1eef00965bfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=980&q=80",
+      "description": "Chess is a game played between two opponents on opposite sides of a board containing 64 squares of alternating colors. Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns.",
       "age": 45,
       "time": 15
     },
@@ -35,7 +35,7 @@
       "id": 105,
       "name": "Hokey Pratice For Fitness",
       "img": "https://images.unsplash.com/photo-1580748141549-71748dbe0bdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-      "description": "Hockey is a type of sport in which players try to get points by hitting an object into the other team`s goal with a stick. Others believe hockey came from the French word “hoquet” which means shepherd`s stick.",
+      "description": "Hockey is a type of sport in which players try to get points by hitting an object into the other team`s goal with a stick. ",
       "age": 25,
       "time": 60
     },
@@ -43,7 +43,7 @@
       "id": 106,
       "name": "Vollyball",
       "img": "https://media.istockphoto.com/id/639020060/photo/high-school-female-volleyball-player-spiking-the-ball.jpg?s=612x612&w=is&k=20&c=YUMkUSK4mUP5IlLyHTQNxI3VJO_pJRXNt0I9X3E3Tho=",
-      "description": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules.[1] It has been a part of the official program of the Summer Olympic Games since Tokyo 1964. ",
+      "description": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules. ",
       "age": 30,
       "time": 25
     }
