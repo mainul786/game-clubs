@@ -13,6 +13,7 @@ const Sport = (props) => {
                 <p>Age:{age}</p>
                 <p>Time:{time}</p>
             </div>
+                <button className='btn-cart'>Add To Cart</button>
         </div>
     );
 };

@@ -1,11 +1,12 @@
 .sport{
     width: 300px;
-    height: 550px;
+    height: 570px;
     border: 2px solid black;
     border-radius: 10px;
+    position: relative;
 }
 .sport img{
-    width: 270px;
+    width: 280px;
     height: 230px;
     padding: 10px;
     border-radius: 20px;
@@ -13,7 +14,22 @@
 .sport-info{
     padding: 20px;
 }
+.sport-info p{
+    margin: 7px;
+}
 
 .sport h2{
     margin: 0;
+}
+.btn-cart{
+    width: 100%;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    border: none;
+    background-color: coral;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 20px;
+    color: white;
 }
