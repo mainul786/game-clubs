@@ -1,8 +1,9 @@
 import React from 'react';
 import './Sport.css';
 
-const Sport = (props) => {
-    const { img, name, age, time, description } = props.sport;
+const Sport = ({sport, handelAddToCart}) => {
+    const { img, name, age, time, description } = sport;
+
     // console.log(props)
     return (
         <div className='sport'>
@@ -13,7 +14,7 @@ const Sport = (props) => {
                 <p>Age:{age}</p>
                 <p>Time:{time}</p>
             </div>
-                <button className='btn-cart'>Add To Cart</button>
+                <button className='btn-cart' onClick={()=>handelAddToCart(sport)}>Add To Cart</button>
         </div>
     );
 };
