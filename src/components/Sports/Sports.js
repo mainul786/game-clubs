@@ -30,7 +30,7 @@ const Sports = () => {
                     ></Sport>)
                 }
             </div>
-            <div>
+            <div className='excersize'>
                <Excersize cart={cart}></Excersize>
             </div>
         </div>

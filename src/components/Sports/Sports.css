@@ -9,5 +9,11 @@
 .sport-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 45px;
+    gap: 25px;
+}
+.excersize{
+    background-color: gainsboro;
+    padding: 20px;
+    position: sticky;
+    top: 0;
 }
